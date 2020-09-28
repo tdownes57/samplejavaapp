@@ -1,0 +1,6 @@
+
+This file should trigger a build in my Google Cloud Platform | v.m. instance "machine1" | Jenkins.
+  
+     http://34.66.46.18:8080/job/job1-compile/    
+
+
